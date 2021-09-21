@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, especially in connection with Hardware.
 - 🌱 I’m currently learning Python, looking forward to learn C/C++.
 - 💞️ I’m looking to collaborate on nearly everything, e.g. SmartHome.
-- 📫 How to reach me: Twitter_Daniel_Hansen_
+- 📫 How to reach me: Well, GitHub.
 
 <!---
 Rema26/Rema26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
